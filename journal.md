@@ -10,11 +10,12 @@ Day 1:
 1)Figured id use this design for the x motor.
 2)Made a rough list of materials:
 
-  <img width="683" height="788" alt="CNC _ V1 - Google Chrome 6_2_2026 7_41_43 PM" src="https://github.com/user-attachments/assets/ff97b474-b7dd-4a4b-881e-fa2796fac383" />
+ <img width="1061" height="847" alt="CNC _ V1 - Google Chrome 6_2_2026 7_44_10 PM" src="https://github.com/user-attachments/assets/264dfa43-f3a7-4015-9e9e-094f95cd7604" />
+
 
   Hour 2:
   
-  <img width="683" height="788" alt="CNC _ V1 - Google Chrome 6_2_2026 7_41_43 PM" src="https://github.com/user-attachments/assets/41dc8a8a-95dc-4084-ab5c-5a436158b8f1" />
+  <img width="985" height="772" alt="CNC _ V1 - Google Chrome 6_2_2026 7_45_46 PM" src="https://github.com/user-attachments/assets/c4595d17-c963-4336-b256-bb6ec297ede7" />
   
   1) Designed the x-axis "linear rail". Designed after my fully 3d printed 3d printer's x-axis
      
