@@ -36,8 +36,6 @@ Day 1:
 
  I designed a configurable / modular lead screw like the lego ones:
 
- <img width="1058" height="803" alt="CNC _ V1 - Google Chrome 6_2_2026 8_09_05 PM" src="https://github.com/user-attachments/assets/ffa1352e-5c14-4c33-a6f8-9517ca209055" />
-
 <img width="764" height="823" alt="CNC _ V1 - Google Chrome 6_2_2026 8_12_48 PM" src="https://github.com/user-attachments/assets/a09af6d5-f0f4-4fb2-82bf-2304f361a845" />
 
 there were about 3 versions before i landed on the one you saw
