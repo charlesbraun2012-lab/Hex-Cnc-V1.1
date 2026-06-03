@@ -8,6 +8,7 @@ Day 1:
   <img width="683" height="788" alt="CNC _ V1 - Google Chrome 6_2_2026 7_41_43 PM" src="https://github.com/user-attachments/assets/a318f93d-fae6-4fac-87d1-8f8104fb7e5e" />
   
 1)Figured id use this design for the x motor.
+
 2)Made a rough list of materials:
 
  <img width="1061" height="847" alt="CNC _ V1 - Google Chrome 6_2_2026 7_44_10 PM" src="https://github.com/user-attachments/assets/264dfa43-f3a7-4015-9e9e-094f95cd7604" />
